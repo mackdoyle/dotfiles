@@ -1,0 +1,19 @@
+#!/usr/bin/php
+
+<?php
+/*
+ *  @author     Bedrich Rios
+ *  @web        http://bedrichrios.com
+ *  @version    0.3
+ */
+ 
+$fileinfo   = pathinfo($_ENV['CODA_FILEPATH']);
+$filepath   = escapeshellarg($_ENV['CODA_FILEPATH']);
+$dir        = escapeshellarg($fileinfo['dirname'] . '/');
+$name       = $fileinfo['filename'];
+$ext        = $fileinfo['extension'];
+$YUI        = escapeshellarg($_ENV['CODA_BUNDLE_PATH'] . '/Support Files/yuicompressor-2.4.4/build/yuicompressor-2.4.4.jar');
+
+$output     = shell_exec('java -jar ' . $YUI . ' ' . $filepath . ' -o ' . $dir . $name . '.min.' . $ext);
+
+?>

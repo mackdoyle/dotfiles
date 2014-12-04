@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.andyryan.hiddenfiles</string>
+	<key>category</key>
+	<string>Tools</string>
+	<key>connections</key>
+	<dict>
+		<key>2C12BF13-E435-465F-A374-91CA57A5825E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CA90DCF7-F090-4E0A-80E3-C15F375CFFC8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>6BFEE804-FF2A-4F28-9361-E64FDC386480</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>68A0A94A-FC7E-4CE9-AC3D-048D6CF96C58</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>8D8F2ABA-50F1-4866-8FEF-4AE10E596832</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6BFEE804-FF2A-4F28-9361-E64FDC386480</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>A43C413A-576D-4147-8715-BE076E7205B2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2C12BF13-E435-465F-A374-91CA57A5825E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Andy Ryan</string>
+	<key>description</key>
+	<string>This wokflow shows or hides hidden files in Finder</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Hidden Files</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>script</key>
+				<string>tell application "Terminal" to quit</string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.script</string>
+			<key>uid</key>
+			<string>CA90DCF7-F090-4E0A-80E3-C15F375CFFC8</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>show f</string>
+				<key>subtext</key>
+				<string>Shows Hidden Files in Finder</string>
+				<key>text</key>
+				<string>Show Hidden Files</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A43C413A-576D-4147-8715-BE076E7205B2</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>defaults write com.apple.finder AppleShowAllFiles -boolean true
+killall Finder
+exit 0</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>2C12BF13-E435-465F-A374-91CA57A5825E</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>3AE1C7EF-1317-42B9-AD24-40CFEC24EF88</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>defaults delete com.apple.finder AppleShowAllFiles
+killall Finder
+exit 0</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>6BFEE804-FF2A-4F28-9361-E64FDC386480</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>script</key>
+				<string>tell application "Terminal" to quit</string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.script</string>
+			<key>uid</key>
+			<string>68A0A94A-FC7E-4CE9-AC3D-048D6CF96C58</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>hide f</string>
+				<key>subtext</key>
+				<string>Hide hidden files in Finder</string>
+				<key>text</key>
+				<string>Hide Hidden Files</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>8D8F2ABA-50F1-4866-8FEF-4AE10E596832</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>########################################
+# Show or Hide Files in Finder
+# BundleID: com.andyryan.hiddenfiles
+# Date Created: 1/21/14
+########################################
+
+This little workflow simply runs the command inside terminal to show or hide hidden files in Finder. I found it useful, I hope you do to. One thing to note, I am running the “exit 0” command in my script in order to exit gracefully. I’ve found that if you set the terminal settings to “Close if the shell exited cleanly” it works very nicely.</string>
+	<key>uidata</key>
+	<dict>
+		<key>2C12BF13-E435-465F-A374-91CA57A5825E</key>
+		<dict>
+			<key>ypos</key>
+			<real>20</real>
+		</dict>
+		<key>3AE1C7EF-1317-42B9-AD24-40CFEC24EF88</key>
+		<dict>
+			<key>ypos</key>
+			<real>160</real>
+		</dict>
+		<key>68A0A94A-FC7E-4CE9-AC3D-048D6CF96C58</key>
+		<dict>
+			<key>ypos</key>
+			<real>230</real>
+		</dict>
+		<key>6BFEE804-FF2A-4F28-9361-E64FDC386480</key>
+		<dict>
+			<key>ypos</key>
+			<real>220</real>
+		</dict>
+		<key>8D8F2ABA-50F1-4866-8FEF-4AE10E596832</key>
+		<dict>
+			<key>ypos</key>
+			<real>290</real>
+		</dict>
+		<key>A43C413A-576D-4147-8715-BE076E7205B2</key>
+		<dict>
+			<key>ypos</key>
+			<real>20</real>
+		</dict>
+		<key>CA90DCF7-F090-4E0A-80E3-C15F375CFFC8</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE syntax SYSTEM "syntax.dtd">
+<syntax>
+	<head>
+		<name>LESS</name>
+		<!-- The definitions title -->
+        <charsintokens><![CDATA[_0987654321abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-@]]></charsintokens>
+        <charsincompletion><![CDATA[_0987654321abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-@]]></charsincompletion>
+    </head>
+	<states>
+		<default id="Base" usesymbolsfrommode="CSS" useautocompletefrommode="CSS" scope="meta.default">
+            
+            <keywords id="Variables" useforautocomplete="no" scope="language.variable.less">
+				<regex>(\@[\d\w\-]+)</regex>
+			</keywords>
+            
+			<state id="Rules" scope="style.at-rule">
+				<begin>
+					<string>@import</string>
+					<string>@media</string>
+					<autoend><regex>\s</regex></autoend>
+				</begin>
+				<end>
+					<regex>\s</regex>
+				</end>
+			</state>
+
+			<!-- top level strings -->
+            <state-link state="String" mode="CSS"/>
+            <state-link state="SingleString" mode="CSS"/>
+			
+			<!-- gets us attribute state highlighting outside of {} -->
+			<!-- <state-link state="Attribute state" mode="CSS" /> -->
+			
+		    <keywords id="LESS functions" useforautocomplete="yes" casesensitive="no" scope="language.function.less">
+				<regex>(?&lt;![\d\w])(lighten)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(darken)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(saturate)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(desaturate)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(fadein)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(fadeout)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(fade)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(spin)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(mix)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(hue)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(saturation)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(lightness)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(alpha)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(hsl)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(percentage)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(round)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(ceil)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(floor)\s*\(</regex>
+				<regex>(?&lt;![\d\w])(abs)\s*\(</regex>
+			</keywords>
+			
+			<!-- Get comments and strings from the CSS mode -->
+			<state-link state="AutodocComment" mode="CSS" />
+			<state-link state="Comment" mode="CSS" />
+            
+			<state id="SingleComment" type="comment" scope="style.comment.block">
+				<begin><regex>(?://)</regex></begin>
+				<end><regex>(?:[\n\r])|.?(?=\?&gt;)</regex></end>
+			</state>
+					
+		  	<state id="Inside curly brackets" foldable="yes" indent="yes" scope="meta.block.curly">
+                <begin>
+                    <string>{</string>
+                    <autoend>}</autoend>
+                </begin>
+                <end>
+                    <regex>}</regex>
+                </end>
+                
+            	<state-link state="AutodocComment" mode="CSS" />
+				<state-link state="Comment" mode="CSS" />
+				<state-link state="SingleComment" />
+				<state-link state="SingleString" mode="CSS" />
+				
+            	<state id="String" type="string" scope="style.value.string.double">
+					<begin>
+						<string>"</string>
+					</begin>
+					<end>
+						<regex>(((?&lt;!\\)(\\\\)*)|^)"</regex>
+					</end>
+					
+					<keywords id="Variables" useforautocomplete="no" scope="language.variable.less">
+						<regex>(@[\w\-]+\b)</regex>
+					</keywords>						
+				</state>
+						
+   				<import keywords-only="yes" />
+       				
+       			<import mode="CSS" state="Inside curly brackets" keywords-only="yes" />
+       			
+       			<!-- nested matches, not complete -->
+       			<keywords id="Nested Properties" casesensitive="no" scope="style.property.name">
+					<string>family</string>
+					<string>style</string>
+					<string>weight</string>
+					<string>size</string>
+       			</keywords>
+       			
+				<state id="Attribute state" scope="meta.block.attribute">
+                    <begin>
+                        <regex>:</regex>
+                    </begin>
+                    <end>
+                        <regex>(;|.(?=[}{])|[\n\r])</regex>
+                    </end>
+                    
+                    <import mode="CSS" state="Attribute state" />           			
+           			<import keywords-only="yes" />
+           			
+                </state>
+                
+                <state id="Mixin Attribute state" scope="meta.block.attribute">
+                    <begin>
+                        <regex>\(</regex>
+                    </begin>
+                    <end>
+                        <regex>\)</regex>
+                    </end>
+                    
+                    <import mode="CSS" state="Attribute state" />           			
+           			<import keywords-only="yes" />
+           			<import mode="CSS" state="Inside curly brackets" keywords-only="yes" />
+           			      			
+                </state>
+				
+				<import keywords-only="yes" />
+				<state-link state="Inside curly brackets" />
+				
+            </state>
+
+		</default>
+	</states>
+</syntax>

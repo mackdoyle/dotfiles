@@ -1,0 +1,8 @@
+[
+  { "keys": ["ctrl+super+b"], "command": "toggle_side_bar" },
+  { "keys": ["super+k", "super+b"], "command": "build", "args": {"variant": "Run"} },
+  { "keys": ["ctrl+?"], "command": "dash_doc"},
+  { "keys": ["ctrl+alt+?"], "command": "dash_doc",
+                            "args": { "flip_syntax_sensitive": true } }
+]
+

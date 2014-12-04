@@ -1,0 +1,19 @@
+{
+	"9o.hist./Users/jdoyle/Library/Application Support/Sublime Text 3/Packages":
+	[
+		"hash -r"
+	],
+	"9o.hist./Users/jdoyle/Sites/wt-api/app/_pages":
+	[
+		"env"
+	],
+	"9o.hist./Users/jdoyle/go/src/hello-http":
+	[
+		"which hello-http",
+		"port=5000 hello-http",
+		"$ curl -i http://127.0.0.1:5000/"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r13.12.26-3",
+	"version": "r13.12.26-3"
+}

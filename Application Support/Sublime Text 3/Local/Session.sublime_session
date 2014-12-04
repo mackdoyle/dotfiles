@@ -1,0 +1,1001 @@
+{
+	"folder_history":
+	[
+		"/Users/jdoyle/Sites/wailea",
+		"/Users/jdoyle/Sites/jmd",
+		"/Users/jdoyle/Sites/api-facebook",
+		"/Users/jdoyle/Sites/angularjs/angular-client-side-auth",
+		"/Users/jdoyle/Sites/api-tester",
+		"/Users/jdoyle/Sites/angularjs",
+		"/Users/jdoyle/Sites/wt-api",
+		"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/sullied-theme",
+		"/Users/jdoyle/Sites/hmfaysal-jekyll-theme",
+		"/Users/jdoyle/Desktop/DPSStoreFront-master",
+		"/Users/jdoyle/Desktop/default_android_library",
+		"/Users/jdoyle/Sites/wt-api/dist/fonts",
+		"/Users/jdoyle/vm/drupalbox/data/wheretraveler",
+		"/Users/jdoyle/projects/photo-client"
+	],
+	"last_version": 3065,
+	"last_window_id": 48,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1036.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"po",
+						"position"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"tra",
+						"transparent"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"9o",
+						"GoSublime: Activate 9o"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"in",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 754.0
+			},
+			"console":
+			{
+				"height": 175.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+				"/Users/jdoyle/Sites/jmd/node_modules/grunt-uncss/node_modules/uncss/node_modules/phantomjs/install.js",
+				"/Users/jdoyle/Sites/jmd/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/lang/isNull.js",
+				"/Users/jdoyle/Sites/jmd/node_modules/js-yaml/test/units/is-negative-zero.js",
+				"/Users/jdoyle/Sites/jmd/index.html",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/jdoyle/Sites/twitter-search/index.html",
+				"/Users/jdoyle/Library/Application Support/Google/Chrome/Default/Extensions/ghngaepikegoilihhbhdipfbfifhkeeo/2.6.10_0/flatland.css",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/Gruntfile.js",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html",
+				"/Users/jdoyle/Sites/angularjs/ng-boilerplate/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/index.htm",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Theme - Sullied/Sullied.sublime-theme",
+				"/Users/jdoyle/Library/Application Support/Moom/Jason Doyle.moomlicense",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/src/README.md",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/README.md",
+				"/Users/jdoyle/Sites/angularjs/firstapp/js/angular.js",
+				"/Users/jdoyle/Sites/angularjs/ngbp/Gruntfile.js",
+				"/Users/jdoyle/Sites/angularjs/firstapp/index.htm",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/jdoyle/Sites/jmd/src/scss/partials/content/_teaser-panels.scss",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Carbonight.tmTheme",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Theme - Sullied/Color Scheme/Sullied-bright.tmTheme",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Theme - Sullied/Color Scheme/Sullied.tmTheme",
+				"/Users/jdoyle/Sites/wt-api/app/js/jquery.contentedit.js",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_footer.scss",
+				"/Users/jdoyle/Sites/wt-api/README.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/sourcemap.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-svgmin/node_modules/svgo/plugins/collapseGroups.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/node_modules/colors/colors.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/node_modules/colors/package.json",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/coffee-script.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-build-control/test/expected/custom_options",
+				"/Users/jdoyle/Sites/wt-api/_config.yml",
+				"/Users/jdoyle/Sites/jmd/src/scss/global/content/_projects.scss",
+				"/Users/jdoyle/Sites/jmd/src/scss/global/_layout.scss",
+				"/Users/jdoyle/Sites/jmd/src/scss/global/content/_teasers.scss",
+				"/Users/jdoyle/Sites/jmd/src/_layouts/landing.html",
+				"/Users/jdoyle/Sites/jmd/src/index.html",
+				"/Users/jdoyle/Sites/jmd/src/_layouts/default.html",
+				"/Users/jdoyle/Sites/jmd/src/scss/gams/patterns/_tiler.scss",
+				"/Users/jdoyle/Sites/jmd/src/scss/global/content/_teasers-spectrum.scss",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/users.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/home.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/rate-limiting.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/paging.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/overview.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/oauth.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/media.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/locations.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/getting-started.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/error-handling.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/articles.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/authentication.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/blogs.md",
+				"/Users/jdoyle/Sites/wt-api/app/_includes/header.html",
+				"/Users/jdoyle/Sites/wt-api/app/_includes/footer.html",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/default.html",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-concat/docs/concat-options.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-clean/docs/clean-overview.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-clean/docs/clean-options.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/lib/grunt/option.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-cssmin/docs/overview.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-clean/docs/overview.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/new-glob-optional-options.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/load-grunt-tasks/node_modules/findup-sync/node_modules/glob/test/new-glob-optional-options.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/node_modules/findup-sync/node_modules/glob/test/new-glob-optional-options.js",
+				"/Users/jdoyle/Sites/wt-api/Gemfile",
+				"/Users/jdoyle/Sites/wt-api/.sass-cache/915cc4caa1e13ae61a9ff629964f742924b2a8fb/_archive.scssc",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Events/09-attributes.json",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/post.html",
+				"/Users/jdoyle/Documents/Box Sync/MMN/_Resources/Code Snippets/wordpress/wp-member-profile-plg.php",
+				"/Users/jdoyle/Sites/wt-api/app/_includes/sidebar-menu.html",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-05-users.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/wide.html",
+				"/Users/jdoyle/Sites/wt-api/dist/index.html",
+				"/Users/jdoyle/Sites/wt-api/404.html",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Github Flavored).sublime-settings",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/Users/jdoyle/Sites/wt-api/.jekyll/index.html",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/redirect.html",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_sidebar-nav.scss",
+				"/Users/jdoyle/Sites/wt-api/app/js/sidebar.js",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/fonts/_proxima-nova.scss",
+				"/Users/jdoyle/Sites/wt-api/_config.build.yml",
+				"/Users/jdoyle/Sites/jmd/Gruntfile.js",
+				"/Users/jdoyle/Sites/wt-api/.gitignore",
+				"/Users/jdoyle/Sites/wt-api/app/js/bootstrap.min.js",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-15-overview.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-14-getting-started.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-13-authentication.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-12-locations.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-11-articles.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-10-blogs.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-09-error-handling.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-08-oauth.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-07-paging.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-06-rate-limiting.markdown",
+				"/Users/jdoyle/Desktop/temp.js",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/Default (OSX).sublime-keymap",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_header.scss",
+				"/Users/jdoyle/Sites/wt-api/app/index.html",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_content.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/_core.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/footer.html",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/themes/_clean-theme.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/icons/fontawesome/_variables.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/icons/fontawesome/font-awesome.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/modules/css3/_transition.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_base.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/_layout.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/main.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_topbar.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/modules/typography/_font-rhythm.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/syntax/monokai_sublime.scss",
+				"/Users/jdoyle/Sites/westernhorseman/templates/yoo_avenue/js/jquery.peelback.js",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/_base.scss",
+				"/Users/jdoyle/Sites/jmd/_posts/2014-06-02-baseline-grid-sass-mixin.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/icons/_font-awesome.scss",
+				"/Users/jdoyle/Sites/wt-api/app/js/scripts.js",
+				"/Users/jdoyle/Sites/jmd/projects.html",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/modules/typography/_baseline-it.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/modules/typography/_dropcap.scss",
+				"/Users/jdoyle/Sites/wt-api/Gruntfile.js"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 127.0,
+				"where_history":
+				[
+					"<This File>",
+					"Sullied.sublime-theme",
+					"<this file>",
+					"",
+					"/Users/jdoyle/Sites/wt-api/app/_scss",
+					"this file,<open folders>,/Users/jdoyle/Sites/wt-api/app/_scss",
+					"this file,<open folders>",
+					"this file",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"erro",
+					"err",
+					"0000",
+					"accept",
+					"10,10,10",
+					"botto",
+					"sea",
+					"conn",
+					"watch",
+					"pun",
+					"variable.p",
+					"constant.o",
+					"Number",
+					"f3",
+					"e4",
+					">\n",
+					"af",
+					"e5",
+					"e4",
+					"afe",
+					"string",
+					"provider",
+					"97",
+					"docs",
+					"bar",
+					"team",
+					"inde",
+					"after_setup",
+					"admin_menu",
+					"add_action",
+					"`",
+					"window",
+					"active",
+					"arrow",
+					"sourceT",
+					"-right",
+					"#sidebar",
+					"#content",
+					"''",
+					"`",
+					"operator",
+					"toggle-nav",
+					" </a> </li>",
+					"filer",
+					"showcase\n\n",
+					"//",
+					"hovera",
+					"colllapse",
+					"collapse",
+					".token",
+					"save"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"10,10,15",
+					"",
+					"</a></li>",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"menu_visible": true,
+			"output.9o:///Users/jdoyle/Sites/wt-api/app/_pages":
+			{
+				"height": 418.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 152.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 134.0
+			},
+			"output.exec":
+			{
+				"height": 134.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"jQuery.extend(Drupal.settings, {\"basePath\":\"\\/\",\"p"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 293.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 958.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"po",
+						"position"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"tra",
+						"transparent"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\nTheme - Cyanide:\n---------------\n\n  Cyanide 2.3.0\n  ===============\n  \n  + Now supporting the generation of background variations. These are defined in `colors.json` in the `backgrounds` property.\n  \n  + Rewrote process of getting external color schemes, it extendable if you follow the templates outlined in [Monocyanide Colorscheme](https://github.com/Centril/sublime-monocyanide-colorscheme). It also supports the generation of background variations for the color schemes being generated.\n  \n  + The generated dummy syntax highlightnings have been renamed so that the prefix `Cyanide` is removed from all of them. Report any problems you might have with this change, or if it solved any existing problems.\n  \n  + Added [Twilightcyanide Colorscheme](https://github.com/Centril/sublime-twilightcyanide-colorscheme) which is an adation of the Predawn Twilight colorscheme.\n  \n  Thanks for downloading Cyanide Theme!\n  Feel free to open an issue on Github if you have any problem with the theme.\n  \n  https://github.com/lefoy/cyanide-theme\n  \n",
+					"settings":
+					{
+						"buffer_size": 1093,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "/*\n * Main Grunt Task Configuration\n * -------------------------------------------------\n */\n'use strict';\n\nmodule.exports = function (grunt) {\n  // Show elapsed time after tasks run\n  require('time-grunt')(grunt);\n  // Load all Grunt tasks\n  require('load-grunt-tasks')(grunt);\n\n  grunt.initConfig({\n\n    // Configurable paths\n    path: {\n      dist: 'dist',\n      srv: '_site',\n      src: 'src',\n      tmp: 'src/.tmp'\n    },\n\n\n    /*\n     * ================================================\n     * CSS Scpecific\n     * ================================================\n     */\n\n    /*\n     * Sass (CSS Task 1)\n     * -------------------------------------------------\n     */\n    sass: {\n      options: {\n        bundleExec: true,\n        debugInfo: false,\n        lineNumbers: false\n      },\n      serve: {\n        files: [{\n          src: '<%= path.src %>/scss/styles.scss',\n          dest: '<%= path.src %>/assets/css/styles.css'\n        }]\n      },\n      dist: {\n        files: [{\n          src: '<%= path.src %>/scss/styles.scss',\n          dest: '<%= path.src %>/assets/css/styles.css'\n        }]\n      }\n    },\n\n\n    /*\n     * CSS Autoprefixer  (CSS Task 2)\n     * -------------------------------------------------\n     */\n    autoprefixer: {\n      options: {\n        browsers: ['last 2 versions'],\n        cascade: \"false\"\n      },\n      serve: {\n        src: '<%= path.src %>/assets/css/styles.css'\n      },\n      dist: {\n        src: '<%= path.src %>/assets/css/styles.css'\n      }\n    },\n\n\n    /*\n     * CSSmin (CSS Task 3)\n     * -------------------------------------------------\n     */\n    cssmin: {\n      options: {\n        check: 'gzip'\n      },\n      file: {\n        src:  '<%= path.src %>/assets/css/styles.css',\n        dest: '<%= path.srv %>/assets/css/styles.min.css'\n      }\n    },\n\n    /*\n     * ================================================\n     * Javascript Scpecific\n     * ================================================\n     */\n\n    /*\n     * Concat\n     * Output JS files to /.tmp and have Uglify pick up from there for final processing\n     * -------------------------------------------------\n     */\n    concat: {\n      js: {\n        file: [{\n            src: [ '<%= path.src %>/bower_components/jquery/dist/jquery.min.js', '<%= path.src %>/bower_components/imagesloaded/imagesloaded.pkgd.min.js', '<%= path.src %>/bower_components/isotope/dist/isotope.pkgd.min.js', '<%= path.src %>/assets/js/main.js' ],\n            dest:  '<%= path.tmp %>/optifying.js'\n          }\n        ]\n      }\n    },\n\n    /*\n     * Uglify\n     * -------------------------------------------------\n     */\n    uglify: {\n      file: {\n        src:  '<%= path.tmp %>/optifying.js',\n        dest: '<%= path.srv %>/assets/js/optified.js'\n      }\n    },\n\n    /*\n     * Usemin\n     * -------------------------------------------------\n     */\n    useminPrepare: {\n      html: '<%= path.srv %>/index.html',\n      options: {\n        dest: '<%= path.srv %>'\n      }\n    },\n\n    // Usemin\n    // Moves CSS and javascript inside of Usemin blocks.\n    usemin: {\n      options: {\n        assetsDirs: '<%= path.srv %>/assets'\n      },\n      html: '<%= path.srv %>/**/*.html',\n      css: '<%= path.srv %>/assets/css/**/*.css'\n    },\n\n    // HTML Prepare\n    htmlmin: {\n      dist: {\n        options: {\n          collapseWhitespace: true,\n          collapseBooleanAttributes: true,\n          removeAttributeQuotes: true,\n          removeRedundantAttributes: true\n        },\n        files: [{\n          expand: true,\n          cwd: '<%= path.srv %>',\n          src: '**/*.html',\n          dest: '<%= path.srv %>'\n        }]\n      }\n    },\n\n    // Imagemin\n    imagemin: {\n      dist: {\n        options: {\n          progressive: true\n        },\n        files: [{\n          expand: true,\n          cwd: '<%= path.srv %>',\n          src: '**/*.{jpg,jpeg,png}',\n          dest: '<%= path.srv %>'\n        }]\n      }\n    },\n\n    // SVGmin\n    svgmin: {\n      dist: {\n        files: [{\n          expand: true,\n          cwd: '<%= path.srv %>',\n          src: ['**/*.svg', '!<%= path.srv %>/fonts/**/*.svg'],\n          dest: '<%= path.srv %>'\n        }]\n      }\n    },\n\n\n    /*\n     * Clean\n     * -------------------------------------------------\n     */\n    clean: {\n      serve: [\n        '<%= path.src %>/assets/.tmp/**/*',\n        '<%= path.srv %>'\n      ],\n      dist: {\n        files: [{\n          dot: true,\n          src: [\n            '<%= path.srv %>/*',\n            '<%= path.src %>/assets/.tmp/**/*',\n            // Running Jekyll also cleans the target directory.  Exclude any\n            // non-standard `keep_files` here (e.g., the generated files\n            // directory from Jekyll Picture Tag).\n            '!<%= path.srv %>/.git*'\n          ]\n        }]\n      }\n    },\n\n\n    /*\n     * Using cp command with Shell since grunt-contrib-copy and grunt-autoprefixer suck\n     * -------------------------------------------------\n     */\n    shell: {\n      copyPrefixedCss: {\n        command: 'cp -r ~/Sites/jmd/src/assets/css/styles.css ~/Sites/jmd/src/assets/css/styles.css'\n      }\n    },\n\n\n    /*\n     * Copy\n     * -------------------------------------------------\n     */\n    copy: {\n      dist: {\n        files: [{\n          expand: true,\n          dot: true,\n          cwd: '<%= path.src %>',\n          src: [\n            // Jekyll processes and moves HTML and text files.\n            // Usemin moves CSS and javascript inside of Usemin blocks.\n            // Copy moves asset files and directories.\n            'img/**/*',\n            'fonts/**/*',\n            // Like Jekyll, exclude files & folders prefixed with an underscore.\n            '!**/_*{,/*}',\n            // Explicitly add any files your site needs for distribution here.\n            //'bower_components/jquery/jquery.js',\n            'favicon.ico',\n            'apple-touch*.png'\n          ],\n          dest: '<%= path.srv %>'\n        }]\n      },\n\n      stageJs: {\n        files: [{\n          expand: true,\n          dot: true,\n          src: '<%= path.src %>/assets/js/**/*.js',\n          dest: '<%= path.tmp %>/js'\n        }]\n      }\n    },\n\n\n    /*\n     * File Revision\n     * -------------------------------------------------\n     */\n    filerev: {\n      options: {\n        length: 4\n      },\n      dist: {\n        files: [{\n          src: [\n            '<%= path.srv %>/assets/js/**/*.js',\n            '<%= path.srv %>/assets/css/**/*.css',\n            '<%= path.srv %>/img/**/*.{gif,jpg,jpeg,png,svg,webp}',\n            '<%= path.srv %>/fonts/**/*.{eot*,otf,svg,ttf,woff}'\n          ]\n        }]\n      }\n    },\n\n\n    /*\n     * Build Control\n     * -------------------------------------------------\n     */\n    buildcontrol: {\n      dist: {\n        options: {\n          remote: '../',\n          branch: 'docs.wheretraveler',\n          commit: true,\n          push: true\n        }\n      }\n    },\n\n\n    /*\n     * Code Validation Tasks\n     * -------------------------------------------------\n     */\n\n    // JSHint\n    jshint: {\n      options: {\n        jshintrc: '.jshintrc',\n        reporter: require('jshint-stylish')\n      },\n      all: [\n        'Gruntfile.js',\n        '<%= path.src %>/assets/js/**/*.js',\n        'test/spec/**/*.js'\n      ]\n    },\n\n    // CSSLint\n    csslint: {\n      options: {\n        csslintrc: '.csslintrc'\n      },\n      check: {\n        src: '<%= path.src %>/assets/css/styles.css',\n        dest: '<%= path.src %>/assets/css/styles.linted.css'\n      }\n    },\n\n\n    /*\n     * Notification Messages\n     * -------------------------------------------------\n     */\n    notify: {\n      task_name: {\n        options: {\n          // Task-specific options go here.\n        }\n      },\n      watch: {\n        options: {\n          title: 'Task Complete',  // optional\n          message: 'CSS and JS Compiled Successfully' //required\n        }\n      },\n      concat: {\n        options: {\n          title: 'Concat',  // optional\n          message: 'Combined to: <%= path.tmp %>/optifying.js' //required\n        }\n      },\n      uglify: {\n        options: {\n          title: 'Uglify',  // optional\n          message: 'Uglifies to: <%= path.srv %>/assets/js/optified.js' //required\n        }\n      }\n    },\n\n\n    /*\n     * Jekyll\n     * -------------------------------------------------\n     */\n    jekyll: {\n      options: {\n        bundleExec: true,\n        config: '_config.yml',\n        src: '<%= path.src %>'\n      },\n      serve: {\n        options: {\n          config: '_config.yml',\n          dest: '<%= path.srv %>'\n        }\n      },\n      dist: {\n        options: {\n          config: '_config.yml',\n          dest: '<%= path.srv %>'\n        }\n      },\n      check: {\n        options: {\n          doctor: true\n        }\n      }\n    },\n\n\n    /*\n     * Watch\n     * -------------------------------------------------\n     */\n    watch: {\n      sass: {\n        files: ['<%= path.src %>/scss/**/*.{scss,sass}'],\n        tasks: ['sass:serve','cssmin','notify:watch']\n      },\n      concat: {\n        files: ['<%= path.src %>/assets/js/**/*.js'],\n        tasks: ['concat','uglify', 'notify:uglify']\n      },\n      jekyll: {\n        files: [\n          '<%= path.src %>/**/*.{html,yml,md,mkd,markdown}',\n          '!<%= path.src %>/bower_components/**/*'\n        ],\n        tasks: 'jekyll:serve'\n      },\n      livereload: {\n        options: {\n          livereload: '<%= connect.options.livereload %>'\n        },\n        files: [\n          '_site/**/*.html',\n          '<%= path.src %>/img/**/*.{gif,jpg,jpeg,png,svg,webp}'\n        ]\n      }\n    },\n\n\n\n    /*\n     * Concurrent\n     * -------------------------------------------------\n     */\n    concurrent: {\n      serve: [\n        'sass:serve',\n        'jekyll:serve',\n        'copy:dist'\n      ],\n      dist: [\n        'sass:dist',\n        'copy:dist'\n      ]\n    },\n\n\n    /*\n     * Connect\n     * -------------------------------------------------\n     */\n    connect: {\n      options: {\n        port: 9000,\n        livereload: 35729,\n        // change this to localhost if not working\n        hostname: '0.0.0.0'\n      },\n\n\n    /*\n     * Livereload\n     * -------------------------------------------------\n     */\n      livereload: {\n        options: {\n          open: true,\n          base: [\n            '<%= path.src %>/assets',\n            '<%= path.srv %>'\n          ]\n        }\n      },\n      serve: {\n        options: {\n          open: true,\n          base: [\n            '<%= path.src %>/assets',\n            '<%= path.srv %>'\n          ]\n        }\n      },\n      dist: {\n        options: {\n          open: true,\n          base: [\n            '<%= path.dist %>'\n          ]\n        }\n      },\n      test: {\n        options: {\n          base: [\n            '<%= path.src %>/assets',\n            '<%= path.srv %>',\n            'test'\n          ]\n        }\n      }\n    }\n\n  });\n\n  /*\n   * =================================================\n   * Define Task\n   * =================================================\n   */\n  grunt.loadNpmTasks('grunt-notify');\n\n  // Grunt Serve\n  grunt.registerTask('serve', function (target) {\n    if (target === 'dist') {\n      return grunt.task.run(['build', 'connect:dist:keepalive']);\n    }\n\n    grunt.task.run([\n      'clean:serve',\n      'concurrent:serve',\n      'useminPrepare',\n      'sass:serve',\n      'cssmin',\n      'concat',\n      'uglify',\n      'usemin',\n      'connect:livereload',\n      'jekyll:serve',\n      'watch'\n    ]);\n  });\n\n  // Grunt Build\n  grunt.registerTask('build', [\n    'clean', // Jekyll cleans files from the target directory, so must run first\n    'concurrent:dist',\n    'useminPrepare',\n    'sass:dist',\n    'cssmin',\n    'concat',\n    'uglify',\n    'imagemin',\n    'svgmin',\n    'usemin',\n    'htmlmin',\n    'jekyll:dist'\n  ]);\n\n  // Grunt Test\n  // No real tests yet. Add your own.\n  grunt.registerTask('test', [\n  //   'clean:serve',\n  //   'concurrent:test',\n  //   'connect:test'\n  ]);\n\n  // Grunt Check\n  // 'jshint:all',\n  grunt.registerTask('check', [\n    'clean:serve',\n    'jekyll:check',\n    'sass:serve',\n    'csslint:check'\n  ]);\n\n  // Grunt Deploy\n  grunt.registerTask('deploy', [\n    'check',\n    'test',\n    'build',\n    'buildcontrol'\n    ]);\n\n // Grunt\n  grunt.registerTask('default', [\n    'check',\n    'test',\n    'build'\n  ]);\n};\n",
+					"file": "/Users/jdoyle/Sites/wailea/Gruntfile.js",
+					"file_size": 12264,
+					"file_write_time": 130574860120000000,
+					"settings":
+					{
+						"buffer_size": 12264,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"9o",
+						"GoSublime: Activate 9o"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"SublimeLinter: Disable Linting"
+					],
+					[
+						"sql",
+						"SQL Beautifier: Format Current SQL File"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"in",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 754.0
+			},
+			"console":
+			{
+				"height": 175.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/jdoyle/Sites/wailea",
+				"/Users/jdoyle/Sites/wailea/src",
+				"/Users/jdoyle/Sites/wailea/src/_layouts",
+				"/Users/jdoyle/Sites/wailea/src/_posts",
+				"/Users/jdoyle/Sites/wailea/src/assets"
+			],
+			"file_history":
+			[
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+				"/Users/jdoyle/Sites/jmd/node_modules/grunt-uncss/node_modules/uncss/node_modules/phantomjs/install.js",
+				"/Users/jdoyle/Sites/jmd/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/lang/isNull.js",
+				"/Users/jdoyle/Sites/jmd/node_modules/js-yaml/test/units/is-negative-zero.js",
+				"/Users/jdoyle/Sites/jmd/index.html",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/jdoyle/Sites/twitter-search/index.html",
+				"/Users/jdoyle/Library/Application Support/Google/Chrome/Default/Extensions/ghngaepikegoilihhbhdipfbfifhkeeo/2.6.10_0/flatland.css",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/Gruntfile.js",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html",
+				"/Users/jdoyle/Sites/angularjs/ng-boilerplate/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/node_modules/zeparser/benchmark.html",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/index.htm",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Theme - Sullied/Sullied.sublime-theme",
+				"/Users/jdoyle/Library/Application Support/Moom/Jason Doyle.moomlicense",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/src/README.md",
+				"/Users/jdoyle/Sites/angularjs/twitter-search/README.md",
+				"/Users/jdoyle/Sites/angularjs/firstapp/js/angular.js",
+				"/Users/jdoyle/Sites/angularjs/ngbp/Gruntfile.js",
+				"/Users/jdoyle/Sites/angularjs/firstapp/index.htm",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/jdoyle/Sites/jmd/src/scss/partials/content/_teaser-panels.scss",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Carbonight.tmTheme",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Theme - Sullied/Color Scheme/Sullied-bright.tmTheme",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Theme - Sullied/Color Scheme/Sullied.tmTheme",
+				"/Users/jdoyle/Sites/wt-api/app/js/jquery.contentedit.js",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_footer.scss",
+				"/Users/jdoyle/Sites/wt-api/README.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/sourcemap.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-svgmin/node_modules/svgo/plugins/collapseGroups.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/node_modules/colors/colors.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/node_modules/colors/package.json",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/coffee-script.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-build-control/test/expected/custom_options",
+				"/Users/jdoyle/Sites/wt-api/_config.yml",
+				"/Users/jdoyle/Sites/jmd/src/scss/global/content/_projects.scss",
+				"/Users/jdoyle/Sites/jmd/src/scss/global/_layout.scss",
+				"/Users/jdoyle/Sites/jmd/src/scss/global/content/_teasers.scss",
+				"/Users/jdoyle/Sites/jmd/src/_layouts/landing.html",
+				"/Users/jdoyle/Sites/jmd/src/index.html",
+				"/Users/jdoyle/Sites/jmd/src/_layouts/default.html",
+				"/Users/jdoyle/Sites/jmd/src/scss/gams/patterns/_tiler.scss",
+				"/Users/jdoyle/Sites/jmd/src/scss/global/content/_teasers-spectrum.scss",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/users.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/home.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/rate-limiting.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/paging.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/overview.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/oauth.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/media.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/locations.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/getting-started.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/error-handling.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/articles.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/authentication.md",
+				"/Users/jdoyle/Sites/wt-api/app/_pages/blogs.md",
+				"/Users/jdoyle/Sites/wt-api/app/_includes/header.html",
+				"/Users/jdoyle/Sites/wt-api/app/_includes/footer.html",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/default.html",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-concat/docs/concat-options.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-clean/docs/clean-overview.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-clean/docs/clean-options.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/lib/grunt/option.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-cssmin/docs/overview.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-clean/docs/overview.md",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/new-glob-optional-options.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/load-grunt-tasks/node_modules/findup-sync/node_modules/glob/test/new-glob-optional-options.js",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt/node_modules/findup-sync/node_modules/glob/test/new-glob-optional-options.js",
+				"/Users/jdoyle/Sites/wt-api/Gemfile",
+				"/Users/jdoyle/Sites/wt-api/.sass-cache/915cc4caa1e13ae61a9ff629964f742924b2a8fb/_archive.scssc",
+				"/Users/jdoyle/Sites/wt-api/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Events/09-attributes.json",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/post.html",
+				"/Users/jdoyle/Documents/Box Sync/MMN/_Resources/Code Snippets/wordpress/wp-member-profile-plg.php",
+				"/Users/jdoyle/Sites/wt-api/app/_includes/sidebar-menu.html",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-05-users.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/wide.html",
+				"/Users/jdoyle/Sites/wt-api/dist/index.html",
+				"/Users/jdoyle/Sites/wt-api/404.html",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Github Flavored).sublime-settings",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/Users/jdoyle/Sites/wt-api/.jekyll/index.html",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/redirect.html",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_sidebar-nav.scss",
+				"/Users/jdoyle/Sites/wt-api/app/js/sidebar.js",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/fonts/_proxima-nova.scss",
+				"/Users/jdoyle/Sites/wt-api/_config.build.yml",
+				"/Users/jdoyle/Sites/jmd/Gruntfile.js",
+				"/Users/jdoyle/Sites/wt-api/.gitignore",
+				"/Users/jdoyle/Sites/wt-api/app/js/bootstrap.min.js",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-15-overview.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-14-getting-started.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-13-authentication.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-12-locations.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-11-articles.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-10-blogs.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-09-error-handling.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-08-oauth.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-07-paging.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_posts/2014-08-06-rate-limiting.markdown",
+				"/Users/jdoyle/Desktop/temp.js",
+				"/Users/jdoyle/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/Default (OSX).sublime-keymap",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_header.scss",
+				"/Users/jdoyle/Sites/wt-api/app/index.html",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_content.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/_core.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_layouts/footer.html",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/themes/_clean-theme.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/icons/fontawesome/_variables.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/icons/fontawesome/font-awesome.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/modules/css3/_transition.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_base.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/_layout.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/main.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/partials/_topbar.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/modules/typography/_font-rhythm.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/syntax/monokai_sublime.scss",
+				"/Users/jdoyle/Sites/westernhorseman/templates/yoo_avenue/js/jquery.peelback.js",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/_base.scss",
+				"/Users/jdoyle/Sites/jmd/_posts/2014-06-02-baseline-grid-sass-mixin.markdown",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/base/icons/_font-awesome.scss",
+				"/Users/jdoyle/Sites/wt-api/app/js/scripts.js",
+				"/Users/jdoyle/Sites/jmd/projects.html",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/modules/typography/_baseline-it.scss",
+				"/Users/jdoyle/Sites/wt-api/app/_scss/modules/typography/_dropcap.scss",
+				"/Users/jdoyle/Sites/wt-api/Gruntfile.js"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 127.0,
+				"where_history":
+				[
+					"<This File>",
+					"Sullied.sublime-theme",
+					"<this file>",
+					"",
+					"/Users/jdoyle/Sites/wt-api/app/_scss",
+					"this file,<open folders>,/Users/jdoyle/Sites/wt-api/app/_scss",
+					"this file,<open folders>",
+					"this file",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"erro",
+					"err",
+					"0000",
+					"accept",
+					"10,10,10",
+					"botto",
+					"sea",
+					"conn",
+					"watch",
+					"pun",
+					"variable.p",
+					"constant.o",
+					"Number",
+					"f3",
+					"e4",
+					">\n",
+					"af",
+					"e5",
+					"e4",
+					"afe",
+					"string",
+					"provider",
+					"97",
+					"docs",
+					"bar",
+					"team",
+					"inde",
+					"after_setup",
+					"admin_menu",
+					"add_action",
+					"`",
+					"window",
+					"active",
+					"arrow",
+					"sourceT",
+					"-right",
+					"#sidebar",
+					"#content",
+					"''",
+					"`",
+					"operator",
+					"toggle-nav",
+					" </a> </li>",
+					"filer",
+					"showcase\n\n",
+					"//",
+					"hovera",
+					"colllapse",
+					"collapse",
+					".token",
+					"save"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"10,10,15",
+					"",
+					"</a></li>",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/jdoyle/Sites/wailea"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1093,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1093,
+										1093
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/jdoyle/Sites/wailea/Gruntfile.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12264,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10818,
+										10818
+									]
+								],
+								"settings":
+								{
+									"hasHeader": false,
+									"syntax": "Packages/Theme - Cyanide/Cyanide/file_types/Gruntfile JS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 11647.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/jdoyle/Sites/wt-api/app/_pages":
+			{
+				"height": 418.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 152.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 134.0
+			},
+			"output.exec":
+			{
+				"height": 134.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0 4 120 1916 1058 0 0 1920 1178 ",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"jQuery.extend(Drupal.settings, {\"basePath\":\"\\/\",\"p"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 293.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 48,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/jdoyle/projects/photo-client/photo-client.sublime-workspace"
+		]
+	}
+}

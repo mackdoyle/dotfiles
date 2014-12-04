@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>A4FAB27C-EEE8-4588-A9AB-44F56B4AF8A4</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>dash</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>Dash</string>
+			<key>url</key>
+			<string>dash://(query)</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C3F47F48-414B-4135-B42D-CAE886528894</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>facheats</string>
+			<key>plusSpaces</key>
+			<false/>
+			<key>text</key>
+			<string>Font Awesome Cheats</string>
+			<key>url</key>
+			<string>http://fortawesome.github.io/Font-Awesome/cheatsheet/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

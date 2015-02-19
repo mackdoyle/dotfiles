@@ -1,0 +1,81 @@
+Default:Solarized Dark xterm-256color
+ 
+# Development
+ci-public:Ocean
+ci:Ocean
+skynet:Ocean
+skynet-public:Ocean
+ 
+# Test
+gateqa-p11:Grass
+ 
+# UAT
+sso_staging:Novel
+staging1:Novel
+staging2:Novel
+staging3:Novel
+staging4:Novel
+staging5:Novel
+staging6:Novel
+staging7:Novel
+staging9:Novel
+ 
+# Production
+apt-server:Red Sands
+cron:Red Sands
+db-repl01:Red Sands
+db01:Red Sands
+db02:Red Sands
+db1:Red Sands
+db2:Red Sands
+dj2:Red Sands
+dj3:Red Sands
+dj4:Red Sands
+dj5:Red Sands
+dj:Red Sands
+ec2_db_slave:Red Sands
+elastic1:Red Sands
+elastic2:Red Sands
+elastic3:Red Sands
+ftp:Red Sands
+gateway:Red Sands
+lb01:Red Sands
+memcached:Red Sands
+nfs:Red Sands
+redis01:Red Sands
+redis02:Red Sands
+redis:Red Sands
+sk01:Red Sands
+soa_haproxy:Red Sands
+soa_photo_processing_1:Red Sands
+soa_photo_processing_2:Red Sands
+soa_photo_processing_3:Red Sands
+soa_redis:Red Sands
+solr_master:Red Sands
+solr_slave:Red Sands
+sphinx:Red Sands
+splunk:Red Sands
+stats:Red Sands
+support-mysql:Red Sands
+support:Red Sands
+vagrant:Red Sands
+warehouse:Red Sands
+web01:Red Sands
+web02:Red Sands
+web10:Red Sands
+web11:Red Sands
+web12:Red Sands
+web13:Red Sands
+web14:Red Sands
+web15:Red Sands
+web16:Red Sands
+web17:Red Sands
+web1:Red Sands
+web2:Red Sands
+web3:Red Sands
+web4:Red Sands
+web5:Red Sands
+web6:Red Sands
+web7:Red Sands
+web8:Red Sands
+web9:Red Sands

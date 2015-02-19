@@ -1,0 +1,21 @@
+[user]
+	name = Jason Doyle
+	email = jason.doyle@morris.com
+[core]
+	excludesfile = /Users/jdoyle/.gitignore_global
+	pager = less -r
+[difftool "bbdiff"]
+        cmd = bbdiff --wait --resume --ignore-spaces "$LOCAL" "$REMOTE"
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[push]
+	default = simple
+[filter "media"]
+	clean = git-media-clean %f
+	smudge = git-media-smudge %f
+[color]
+	ui = true
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 

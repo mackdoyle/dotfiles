@@ -10,6 +10,7 @@
 # ------------------------------------------------------------
   DISABLE_UPDATE_PROMPT=true
   COMPLETION_WAITING_DOTS=true
+  DISABLE_UNTRACKED_FILES_DIRTY="true"
   export LC_ALL=en_US.UTF-8
   export LANG=en_US.UTF-8
 
